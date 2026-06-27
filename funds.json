@@ -1,0 +1,36 @@
+{
+  "schema_version": "1",
+  "generated_at": "2026-06-27T17:08:19+00:00",
+  "funds": [
+    {
+      "series_id": "S000002564",
+      "name": "Vanguard Total Bond Market Index Fund",
+      "registrant_cik": "0000794105",
+      "tickers": [
+        "BND",
+        "VBMFX",
+        "VBMPX",
+        "VBTIX",
+        "VBTLX",
+        "VTBSX"
+      ],
+      "latest_period": "2026-03-31",
+      "latest_accession": "0000794105-26-000185"
+    },
+    {
+      "series_id": "S000002848",
+      "name": "Vanguard Total Stock Market Index Fund",
+      "registrant_cik": "0000036405",
+      "tickers": [
+        "VITSX",
+        "VSMPX",
+        "VSTSX",
+        "VTI",
+        "VTSAX",
+        "VTSMX"
+      ],
+      "latest_period": "2026-03-31",
+      "latest_accession": "0000036405-26-000323"
+    }
+  ]
+}
