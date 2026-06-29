@@ -1,7 +1,17 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-06-29T22:59:50+00:00",
+  "generated_at": "2026-06-29T23:48:03+00:00",
   "funds": [
+    {
+      "series_id": "S000002233",
+      "name": "Vanguard Treasury Money Market Fund",
+      "registrant_cik": "0000891190",
+      "tickers": [
+        "VUSXX"
+      ],
+      "latest_period": "2026-05-31",
+      "latest_accession": "0001410368-26-057308"
+    },
     {
       "series_id": "S000002564",
       "name": "Vanguard Total Bond Market Index Fund",
@@ -113,6 +123,27 @@
       ],
       "latest_period": "2026-03-31",
       "latest_accession": "0000923202-26-000098"
+    },
+    {
+      "series_id": "S000004462",
+      "name": "Vanguard Federal Money Market Fund",
+      "registrant_cik": "0000106830",
+      "tickers": [
+        "VMFXX"
+      ],
+      "latest_period": "2026-05-31",
+      "latest_accession": "0001410368-26-057324"
+    },
+    {
+      "series_id": "S000030005",
+      "name": "Vanguard Russell 2000 Growth Index Fund",
+      "registrant_cik": "0001021882",
+      "tickers": [
+        "VRTGX",
+        "VTWG"
+      ],
+      "latest_period": "2026-02-28",
+      "latest_accession": "0001021882-26-000277"
     },
     {
       "series_id": "S000034163",
