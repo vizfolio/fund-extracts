@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-06-29T11:00:19+00:00",
+  "generated_at": "2026-06-29T22:59:50+00:00",
   "funds": [
     {
       "series_id": "S000002564",
@@ -31,6 +31,33 @@
       "latest_accession": "0000036405-26-000325"
     },
     {
+      "series_id": "S000002845",
+      "name": "Vanguard Small-Cap Index Fund",
+      "registrant_cik": "0000036405",
+      "tickers": [
+        "NAESX",
+        "VB",
+        "VSCIX",
+        "VSCPX",
+        "VSMAX"
+      ],
+      "latest_period": "2026-03-31",
+      "latest_accession": "0000036405-26-000319"
+    },
+    {
+      "series_id": "S000002847",
+      "name": "Vanguard Small-Cap Value Index Fund",
+      "registrant_cik": "0000036405",
+      "tickers": [
+        "VBR",
+        "VISVX",
+        "VSIAX",
+        "VSIIX"
+      ],
+      "latest_period": "2026-03-31",
+      "latest_accession": "0000036405-26-000324"
+    },
+    {
       "series_id": "S000002848",
       "name": "Vanguard Total Stock Market Index Fund",
       "registrant_cik": "0000036405",
@@ -44,6 +71,69 @@
       ],
       "latest_period": "2026-03-31",
       "latest_accession": "0000036405-26-000323"
+    },
+    {
+      "series_id": "S000002924",
+      "name": "Vanguard Real Estate Index Fund",
+      "registrant_cik": "0000734383",
+      "tickers": [
+        "VGSIX",
+        "VGSLX",
+        "VGSNX",
+        "VNQ"
+      ],
+      "latest_period": "2026-04-30",
+      "latest_accession": "0000734383-26-000215"
+    },
+    {
+      "series_id": "S000002932",
+      "name": "Vanguard Total International Stock Index Fund",
+      "registrant_cik": "0000736054",
+      "tickers": [
+        "VGTSX",
+        "VTIAX",
+        "VTISX",
+        "VTPSX",
+        "VTSNX",
+        "VXUS"
+      ],
+      "latest_period": "2026-04-30",
+      "latest_accession": "0000736054-26-000191"
+    },
+    {
+      "series_id": "S000004386",
+      "name": "Vanguard Developed Markets Index Fund",
+      "registrant_cik": "0000923202",
+      "tickers": [
+        "VDIPX",
+        "VDVIX",
+        "VEA",
+        "VTMGX",
+        "VTMNX"
+      ],
+      "latest_period": "2026-03-31",
+      "latest_accession": "0000923202-26-000098"
+    },
+    {
+      "series_id": "S000034163",
+      "name": "Schwab U.S. Dividend Equity ETF",
+      "registrant_cik": "0001454889",
+      "tickers": [
+        "SCHD"
+      ],
+      "latest_period": "2026-02-28",
+      "latest_accession": "0001410368-26-039973"
+    },
+    {
+      "series_id": "S000048568",
+      "name": "Vanguard Tax-Exempt Bond Index Fund",
+      "registrant_cik": "0000225997",
+      "tickers": [
+        "VTEAX",
+        "VTEB"
+      ],
+      "latest_period": "2026-04-30",
+      "latest_accession": "0000225997-26-000252"
     }
   ]
 }
