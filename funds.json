@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-07-06T10:18:52+00:00",
+  "generated_at": "2026-07-13T09:26:55+00:00",
   "funds": [
     {
       "series_id": "S000002233",
@@ -9,8 +9,8 @@
       "tickers": [
         "VUSXX"
       ],
-      "latest_period": "2026-05-31",
-      "latest_accession": "0001410368-26-057308"
+      "latest_period": "2026-06-30",
+      "latest_accession": "0001410368-26-069258"
     },
     {
       "series_id": "S000002564",
@@ -96,21 +96,6 @@
       "latest_accession": "0000734383-26-000215"
     },
     {
-      "series_id": "S000002932",
-      "name": "Vanguard Total International Stock Index Fund",
-      "registrant_cik": "0000736054",
-      "tickers": [
-        "VGTSX",
-        "VTIAX",
-        "VTISX",
-        "VTPSX",
-        "VTSNX",
-        "VXUS"
-      ],
-      "latest_period": "2026-04-30",
-      "latest_accession": "0000736054-26-000191"
-    },
-    {
       "series_id": "S000004386",
       "name": "Vanguard Developed Markets Index Fund",
       "registrant_cik": "0000923202",
@@ -131,8 +116,8 @@
       "tickers": [
         "VMFXX"
       ],
-      "latest_period": "2026-05-31",
-      "latest_accession": "0001410368-26-057324"
+      "latest_period": "2026-06-30",
+      "latest_accession": "0001410368-26-069254"
     },
     {
       "series_id": "S000030005",
