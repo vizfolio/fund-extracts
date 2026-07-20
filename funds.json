@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-07-13T09:26:55+00:00",
+  "generated_at": "2026-07-20T08:57:42+00:00",
   "funds": [
     {
       "series_id": "S000002233",
@@ -94,6 +94,21 @@
       ],
       "latest_period": "2026-04-30",
       "latest_accession": "0000734383-26-000215"
+    },
+    {
+      "series_id": "S000002932",
+      "name": "Vanguard Total International Stock Index Fund",
+      "registrant_cik": "0000736054",
+      "tickers": [
+        "VGTSX",
+        "VTIAX",
+        "VTISX",
+        "VTPSX",
+        "VTSNX",
+        "VXUS"
+      ],
+      "latest_period": "2026-04-30",
+      "latest_accession": "0000736054-26-000191"
     },
     {
       "series_id": "S000004386",
