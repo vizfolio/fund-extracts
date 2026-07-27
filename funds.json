@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-07-20T08:57:42+00:00",
+  "generated_at": "2026-07-27T09:50:41+00:00",
   "funds": [
     {
       "series_id": "S000002233",
@@ -152,8 +152,8 @@
       "tickers": [
         "SCHD"
       ],
-      "latest_period": "2026-02-28",
-      "latest_accession": "0001410368-26-039973"
+      "latest_period": "2026-05-31",
+      "latest_accession": "0001410368-26-075040"
     },
     {
       "series_id": "S000048568",
