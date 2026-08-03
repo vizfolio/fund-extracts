@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-07-27T09:50:41+00:00",
+  "generated_at": "2026-08-03T09:42:39+00:00",
   "funds": [
     {
       "series_id": "S000002233",
@@ -142,8 +142,8 @@
         "VRTGX",
         "VTWG"
       ],
-      "latest_period": "2026-02-28",
-      "latest_accession": "0001021882-26-000277"
+      "latest_period": "2026-05-31",
+      "latest_accession": "0001021882-26-000633"
     },
     {
       "series_id": "S000034163",
