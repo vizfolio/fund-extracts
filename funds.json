@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-08-17T06:53:08+00:00",
+  "generated_at": "2026-08-24T06:55:55+00:00",
   "funds": [
     {
       "series_id": "S000002233",
@@ -144,6 +144,16 @@
       ],
       "latest_period": "2026-05-31",
       "latest_accession": "0001021882-26-000633"
+    },
+    {
+      "series_id": "S000034163",
+      "name": "Schwab U.S. Dividend Equity ETF",
+      "registrant_cik": "0001454889",
+      "tickers": [
+        "SCHD"
+      ],
+      "latest_period": "2026-05-31",
+      "latest_accession": "0001410368-26-075040"
     },
     {
       "series_id": "S000048568",
