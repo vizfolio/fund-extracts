@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-09-28T13:25:41+00:00",
+  "generated_at": "2026-10-05T14:06:14+00:00",
   "funds": [
     {
       "series_id": "S000002233",
@@ -92,8 +92,8 @@
         "VGSNX",
         "VNQ"
       ],
-      "latest_period": "2026-04-30",
-      "latest_accession": "0000734383-26-000215"
+      "latest_period": "2026-07-31",
+      "latest_accession": "0000734383-26-000299"
     },
     {
       "series_id": "S000002932",
@@ -107,8 +107,8 @@
         "VTSNX",
         "VXUS"
       ],
-      "latest_period": "2026-04-30",
-      "latest_accession": "0000736054-26-000191"
+      "latest_period": "2026-07-31",
+      "latest_accession": "0000736054-26-000275"
     },
     {
       "series_id": "S000004386",
@@ -163,8 +163,8 @@
         "VTEAX",
         "VTEB"
       ],
-      "latest_period": "2026-04-30",
-      "latest_accession": "0000225997-26-000252"
+      "latest_period": "2026-07-31",
+      "latest_accession": "0000225997-26-000381"
     }
   ]
 }
