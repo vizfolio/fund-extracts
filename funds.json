@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-10-05T14:06:14+00:00",
+  "generated_at": "2026-10-12T14:55:23+00:00",
   "funds": [
     {
       "series_id": "S000002233",
@@ -9,8 +9,8 @@
       "tickers": [
         "VUSXX"
       ],
-      "latest_period": "2026-08-31",
-      "latest_accession": "0001410368-26-091071"
+      "latest_period": "2026-09-30",
+      "latest_accession": "0001410368-26-102790"
     },
     {
       "series_id": "S000002564",
@@ -131,8 +131,8 @@
       "tickers": [
         "VMFXX"
       ],
-      "latest_period": "2026-08-31",
-      "latest_accession": "0001410368-26-091076"
+      "latest_period": "2026-09-30",
+      "latest_accession": "0001410368-26-102807"
     },
     {
       "series_id": "S000030005",
